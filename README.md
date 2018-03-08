@@ -19,7 +19,7 @@ p.s. I hope soon to make Recurent Neural Network (RNN) variant.( if somebody hel
 
 # My favorite tutorials:
 
-* For understanding fundamentals:
+# For understanding fundamentals:
 
 A visual proof that neural nets can compute any function:
 
@@ -29,7 +29,7 @@ Introduction to Gradient Descent Algorithm (along with variants) in Machine Lear
 
   - https://www.analyticsvidhya.com/blog/2017/03/introduction-to-gradient-descent-algorithm-along-its-variants/
 
-* For Simple Recurent Network - Elman Networks type:
+# For Simple Recurent Network - Elman Networks type:
 
 Elman Networks (with c++ source) 
 
