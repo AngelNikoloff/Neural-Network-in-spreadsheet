@@ -3,6 +3,7 @@
 # Neural-Network-in-spreadsheet
 
 Purpose:
+
 It is for education purpose;
 It allows playground with neural network;
 You can see all network parameters how change during the training proces;
