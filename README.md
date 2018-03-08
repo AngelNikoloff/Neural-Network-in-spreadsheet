@@ -1,7 +1,13 @@
-# Neural-Network-in-spreadsheet
-Simple Artificial Neural Network (ANN) with Backpropagation in Excel spreadsheet for solving XOR problem.
+# From Beginer for Beginers;
 
-For learning purposes.
+# Neural-Network-in-spreadsheet
+
+Purpose:
+It is for education purpose;
+It allows playground with neural network;
+You can see all network parameters how change during the training proces;
+
+Simple Artificial Neural Network (ANN) with Backpropagation in Excel spreadsheet for solving XOR problem.
 
 It is 3 neuron only.
 It support momenetum also.
