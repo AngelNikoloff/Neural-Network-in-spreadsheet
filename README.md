@@ -40,3 +40,14 @@ Elman Networks (with c++ source)
 Simple Elman-style RNN implementation (with c++ source) 
 
   - https://www.ibm.com/developerworks/library/cc-cognitive-recurrent-neural-networks/index.html
+  
+  
+ # For Long short-term memory (LSTM)
+ 
+An implementation of the vanilla LSTM. (with c++ source) (Best c++ Simple implementation for understanding according to me):
+
+  - https://github.com/CharlieYJH/basic-lstm
+  
+  
+  
+  
