@@ -1,6 +1,6 @@
 # From Beginer for Beginers;
 
-# Neural-Network-in-spreadsheet
+# Neural-Network-in-spreadsheet for playground purpose;
 
 Simple Artificial Neural Network (ANN) with Backpropagation in Excel spreadsheet for solving XOR problem.
 
@@ -26,6 +26,10 @@ A visual proof that neural nets can compute any function:
 Introduction to Gradient Descent Algorithm (along with variants) in Machine Learning
 
   - https://www.analyticsvidhya.com/blog/2017/03/introduction-to-gradient-descent-algorithm-along-its-variants/
+
+An overview of gradient descent optimization algorithms
+
+  - http://ruder.io/optimizing-gradient-descent/
 
 # For Simple Recurent Network - Elman Networks type:
 
