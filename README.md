@@ -39,7 +39,7 @@ Simple Elman-style RNN implementation (with c++ source)
   
  # For Long short-term memory (LSTM)
  
-An implementation of the vanilla LSTM. (with c++ source) (Best c++ Simple implementation for understanding according to me):
+An implementation of the vanilla LSTM. (c++ source) (Best c++ Simple implementation for understanding according to me):
 
   - https://github.com/CharlieYJH/basic-lstm
   
