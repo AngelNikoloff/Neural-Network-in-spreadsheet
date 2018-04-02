@@ -26,6 +26,10 @@ An overview of gradient descent optimization algorithms
 
   - http://ruder.io/optimizing-gradient-descent/
 
+Stochastic Gradient Descent – Mini-batch and more
+
+  - http://adventuresinmachinelearning.com/stochastic-gradient-descent/
+
 # For Simple Recurent Network - Elman Networks type:
 
 Elman Networks (with c++ source) 
