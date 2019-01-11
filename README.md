@@ -10,7 +10,7 @@ It support momenetum also.
 There are 2 variants - with tanh and with sigmoid activation fuctions;
 
 
-
+******
 
 
 # My favorite tutorials and c++ implementations:
