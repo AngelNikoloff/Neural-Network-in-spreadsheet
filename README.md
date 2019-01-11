@@ -18,6 +18,10 @@ A visual proof that neural nets can compute any function:
 
   - http://neuralnetworksanddeeplearning.com/chap4.html
   
+Understanding Activation Functions in Neural Networks:
+
+  - https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0
+
 Introduction to Gradient Descent Algorithm (along with variants) in Machine Learning
 
   - https://www.analyticsvidhya.com/blog/2017/03/introduction-to-gradient-descent-algorithm-along-its-variants/
@@ -48,5 +52,8 @@ An implementation of the vanilla LSTM. (c++ source) (Best c++ Simple implementat
   - https://github.com/CharlieYJH/basic-lstm
   
   
+  # For third generation ANN - Spiking Neural Network - SNN
   
+  The Theory:
   
+   - https://icwww.epfl.ch/~gerstner/SPNM/SPNM.html
