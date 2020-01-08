@@ -45,7 +45,7 @@ Elman Networks (with c++ source)
   
 Simple Elman-style RNN implementation (with c++ source) 
 
-  - https://www.ibm.com/developerworks/library/cc-cognitive-recurrent-neural-networks/index.html
+  - https://developer.ibm.com/articles/cc-cognitive-recurrent-neural-networks/
   
   
  # For Long short-term memory (LSTM)
