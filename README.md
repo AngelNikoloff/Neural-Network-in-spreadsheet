@@ -54,7 +54,7 @@ An implementation of the vanilla LSTM. (c++ source) (Best c++ Simple implementat
 
   - https://github.com/CharlieYJH/basic-lstm
   
-  # Best Guide for Attention Mechanisms
+  # Guide for Attention Mechanisms
   
   Attn: Illustrated Attention:
   
