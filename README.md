@@ -54,6 +54,11 @@ An implementation of the vanilla LSTM. (c++ source) (Best c++ Simple implementat
 
   - https://github.com/CharlieYJH/basic-lstm
   
+  # Best Guide for Attention Mechanisms
+  
+  Attn: Illustrated Attention:
+  
+  - https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3
   
   # For third generation ANN - Spiking Neural Network - SNN
   
