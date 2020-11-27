@@ -9,6 +9,7 @@ It is 3 neuron only .
 It support momenetum also.
 There are 2 variants - with tanh and with sigmoid activation fuctions;
 
+[My image]( AngelNikoloff .github.com/repository/ANN_XOR.gif)
 
 ******
 
