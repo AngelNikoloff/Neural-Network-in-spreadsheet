@@ -11,6 +11,8 @@ There are 2 variants - with tanh and with sigmoid activation fuctions;
 
 [My image]( AngelNikoloff .github.com/repository/ANN_XOR.gif)
 
+[My image]( AngelNikoloff .github.com/AngelNikoloff/Neural-Network-in-spreadsheet/ANN_XOR.gif)
+
 ******
 
 
