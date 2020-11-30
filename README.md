@@ -5,7 +5,7 @@
 Simple Artificial Neural Network (ANN) with Backpropagation in Excel spreadsheet with XOR example.
 You can see all network parameters how change during the training proces;
 
-It is 3 neuron only .
+It is 3 layers only .
 It support momenetum also.
 There are 2 variants - with tanh and with sigmoid activation fuctions;
 
@@ -67,3 +67,9 @@ An implementation of the vanilla LSTM. (c++ source) (Best c++ Simple implementat
   The Theory:
   
    - https://icwww.epfl.ch/~gerstner/SPNM/SPNM.html
+
+  The nice very simple example (but in c#):
+
+   - https://github.com/p30home/Spiking-Neural-Network-Simple-Classifier
+
+
