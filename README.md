@@ -44,7 +44,7 @@ Stochastic Gradient Descent – Mini-batch and more
 Elman Networks (with c++ source) 
 
   - http://mnemstudio.org/neural-networks-elman.htm
-  - https://github.com/AngelNikoloff/VANILA-RECURENT-NEURAL-NETWORK   (main inplementation of above)
+  - https://github.com/AngelNikoloff/VANILA-RECURENT-NEURAL-NETWORK   (main inplementation of above - more simple and more flexible for scale and modify to more complicated variants)
   
 Simple Elman-style RNN implementation (with c++ source) 
 
