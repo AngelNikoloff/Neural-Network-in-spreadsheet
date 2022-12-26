@@ -6,7 +6,6 @@ Simple Artificial Neural Network (ANN) with Backpropagation in Excel spreadsheet
 You can see all network parameters how change during the training proces;
 
 It is 3 layers only .
-It support momenetum also.
 There are 2 variants - with tanh and with sigmoid activation fuctions;
 
 ![Screenshot](ANN_XOR.gif)
