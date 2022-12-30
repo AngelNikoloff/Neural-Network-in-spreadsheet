@@ -5,7 +5,7 @@
 Simple Artificial Neural Network (ANN) with Backpropagation in Excel spreadsheet with XOR example.
 You can see all network parameters how change during the training proces;
 
-It is 3 layers only .
+It is 2 layers only .
 There are 2 variants - with tanh and with sigmoid activation fuctions;
 
 ![Screenshot](ANN_XOR.gif)
