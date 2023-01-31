@@ -6,7 +6,12 @@ Simple Artificial Neural Network (ANN) with Backpropagation in Excel spreadsheet
 You can see all network parameters how change during the training proces;
 
 It is 2 layers only .
-There are 2 variants - with tanh and with sigmoid activation fuctions;
+There are 3 variants according activation function:
+- with ReLu activation fuctions;
+- with sigmoid activation fuctions;
+- with tanh activation fuctions; 
+
+There are also variants with momentum implementation for faster learning;
 
 ![Screenshot](ANN_XOR.gif)
 
