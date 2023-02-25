@@ -1,6 +1,6 @@
 # From Beginer for Beginers;
 
-# Neural-Network-in-spreadsheet for education and playground purpose;
+# Neural Network in MS Excel spreadsheet for education and playground purpose;
 
 Simple Artificial Neural Network (ANN) with Backpropagation in Excel spreadsheet with XOR example.
 You can see all network parameters how change during the training proces;
