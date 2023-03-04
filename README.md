@@ -16,6 +16,10 @@ There are also variants with momentum implementation for faster learning;
 ![Screenshot](ANN_XOR.gif)
 
 
+You can visualy see learning rates grpah:
+
+![Screenshot](learningrates.jpeg)
+
 ******
 
 
