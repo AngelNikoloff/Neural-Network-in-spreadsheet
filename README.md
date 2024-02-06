@@ -2,7 +2,7 @@
 
 # Neural Network in MS Excel spreadsheet for education and playground purpose;
 
-1. To understand gradient descent see - FINDING MINIMUM OF A FUNCTION.xlsx.
+1. To understand gradient descent see - "GRADIENT DESCENT - FINDING MINIMUM OF A FUNCTION.xlsx".
    Training a neural network in its essence is finding a minimum of function.
 
 Simple Artificial Neural Network (ANN) with Backpropagation in Excel spreadsheet with XOR example.
