@@ -67,13 +67,7 @@ Simple Elman-style RNN implementation (with c++ source)
 An implementation of the vanilla LSTM. (c++ source) (Best c++ Simple implementation for understanding according to me):
 
   - https://github.com/CharlieYJH/basic-lstm
-  
-  # Guide for Attention Mechanisms
-  
-  Attn: Illustrated Attention:
-  
-  - https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3
-  
+    
   # For third generation ANN - Spiking Neural Network - SNN
   
   The Theory:
